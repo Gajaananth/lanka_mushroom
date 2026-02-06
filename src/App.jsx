@@ -164,9 +164,6 @@ const App = () => {
                                 </p>
                                 <div className="mt-8 md:mt-12 pt-6 md:pt-10 border-t border-[#1f3a1f]/5 flex items-center justify-between shrink-0">
                                     <span className="text-[8px] md:text-[9px] font-bold uppercase tracking-[0.3em] text-[#3f5f2a]">Premium Export</span>
-                                    <div className="w-8 h-8 md:w-10 md:h-10 rounded-full bg-[#1f3a1f]/5 border border-[#1f3a1f]/10 flex items-center justify-center group-hover:bg-[#1f3a1f] group-hover:text-white transition-all duration-500">
-                                        <ArrowRight size={14} className="md:size-[16px]" />
-                                    </div>
                                 </div>
                             </div>
                         </motion.div>
