@@ -162,7 +162,7 @@ const App = () => {
                                 <p className="text-[12px] md:text-[13px] leading-relaxed text-[#1f3a1f]/80 font-sans flex-grow">
                                     {product.desc}
                                 </p>
-                                <div className="mt-8 md:mt-12 pt-6 md:pt-10 border-t border-[#1f3a1f]/5 flex items-center justify-between shrink-0">
+                                <div className="mt-8 md:mt-12 pt-6 md:pt-10 border-t border-[#1f3a1f]/5 flex items-center justify-center shrink-0">
                                     <span className="text-[8px] md:text-[9px] font-bold uppercase tracking-[0.3em] text-[#3f5f2a]">Premium Export</span>
                                 </div>
                             </div>
